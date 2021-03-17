@@ -15,4 +15,5 @@ public class Beneficios_Vendedores extends AppCompatActivity {
     }
 
     //Metodos envio gratis condicional PESO
+    //Metodos Descuentos
 }
